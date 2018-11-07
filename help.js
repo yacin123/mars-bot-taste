@@ -74,7 +74,7 @@ $role
 $roleremove
 لسحب رتبة :gear: 
 
-==> Created By Kaser#1118
+==> Created By Kaser#1118 Deuuxer#0009
 **`)
    message.channel.sendEmbed(embed)
     
